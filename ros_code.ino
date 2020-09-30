@@ -1,6 +1,5 @@
 /*
-   rosserial Subscriber Example
-   Blinks an LED on callback
+   rosserial Subscriber 
 */
 
 #include <ros.h>
